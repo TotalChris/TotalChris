@@ -1,7 +1,8 @@
 # 👨‍💻 Chris Yates
-*Web Experience Creator*
+*Web Architect*
 
-Currently working on [Title](https://totalchris.com/title), a note-taking Progressive Web App.
+- Currently maintaining [JT Hair Care](https://jthaircare.com/)'s website.
+- Creator of [Title](https://chrisyates.dev/title-notes), a note-taking PWA.
 
 My Stats
 --
